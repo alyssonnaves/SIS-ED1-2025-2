@@ -45,4 +45,3 @@ if __name__ == "__main__":
     exibir_grade(grd)
 
 
-def exibir_grade(grd):
