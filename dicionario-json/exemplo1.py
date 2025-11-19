@@ -8,6 +8,7 @@ def produto_estoque(nome, valor, quantidade):
     }
 
 def teste_inicial():
+    lapis_dic = produto_estoque("lapis", 2.0, 50)
     print(lapis_dic)
     print(type(lapis_dic))
     print("chaves")
@@ -16,7 +17,7 @@ def teste_inicial():
     print(lapis_dic.values())
     print("itens (par chave-valor)")
     print(lapis_dic.items())
+    print(f"NOME: {lapis_dic["nome_prod"]}")
 
-if __name__ == "__main__":
-    lapis_dic = produto_estoque("lapis", 2.0, 50)
+if __name__ == "__main__":    
     teste_inicial()
