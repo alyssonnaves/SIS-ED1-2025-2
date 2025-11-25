@@ -6,15 +6,15 @@
             "qtd_prod": 50
         },
         {
+            "nome_prod": "lapiseira",
+            "valor_prod": 4.89,
+            "qtd_prod": 100
+        },
+        {
             "nome_prod": "borracha",
             "valor_prod": 1.89,
             "qtd_prod": 100
         },
-        {
-            "nome_prod": "caderno pokemon",
-            "valor_prod": 15.21,
-            "qtd_prod": 80
-        },        
         {
             "nome_prod": "caneta azul",
             "valor_prod": 3.1,
