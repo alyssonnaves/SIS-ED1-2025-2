@@ -1,0 +1,29 @@
+{
+    "itens": [
+        {
+            "id": 11,
+            "descricao": "Tipo 6",
+            "precos": [2200, 1800, 2354.30, 2331.52]
+        },
+        {
+            "id": 542,
+            "descricao": "Tipo 1",
+            "precos": [3000, 2900, 2980.3]
+        },
+        {
+            "id": 87,
+            "descricao": "Tipo 2",
+            "precos": [1850.40, 1920.00, 1780.50]
+        },
+        {
+            "id": 304,
+            "descricao": "Tipo 4",
+            "precos": [2500, 2430.75]
+        },
+        {
+            "id": 912,
+            "descricao": "Tipo 7",
+            "precos": [3100, 2990, 3150.80, 3200]
+        }
+    ]
+}
