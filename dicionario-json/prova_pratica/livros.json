@@ -1,0 +1,16 @@
+{
+    "livros": [
+      {
+        "titulo": "Dom Casmurro",
+        "autor": "Machado de Assis",
+        "quantidade": 8,
+        "preco": 39.90
+      },
+      {
+        "titulo": "O Alienista",
+        "autor": "Machado de Assis",
+        "quantidade": 5,
+        "preco": 29.50
+      }
+    ]
+}
